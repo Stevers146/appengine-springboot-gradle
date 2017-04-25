@@ -1,5 +1,7 @@
+# < Modified by Stevers >
 # Spring Boot based Hello World app
-
+### Migrated from Maven build to Gradle build
+ 
 This sample shows how to run a [Spring Boot][spring-boot] application on [Google
 Cloud Platform][cloud-java]. It uses the [Google App Engine flexible
 environment][App Engine-flexible].
