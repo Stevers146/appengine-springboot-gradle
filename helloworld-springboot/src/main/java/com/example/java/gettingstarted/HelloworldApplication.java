@@ -26,7 +26,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HelloworldApplication {
   @RequestMapping("/")
   public String home() {
-    return "Hello World!";
+   return "Hello World! Courtesy of Google, Stevers, Gradle (helloworld-springboot)";
   }
 
   /**
